@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pptsuwit&theme=neon)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pptsuwit&theme=neon)
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -23,9 +24,7 @@ Here are some ideas to get you started:
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+
 ![Skills](https://skillicons.dev/icons?i=html,css,js,ts,cs&perline=10)
 ![Skills](https://skillicons.dev/icons?i=react,nextjs,vue,angular&perline=10)
 ![Skills](https://skillicons.dev/icons?i=tailwind,bootstrap,&perline=10)
