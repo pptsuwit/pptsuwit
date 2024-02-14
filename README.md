@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pptsuwit&theme=neon)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pptsuwit&theme=neon)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pptsuwit&theme=neon&layout=compact)
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
