@@ -26,8 +26,11 @@ Here are some ideas to get you started:
 
 
 ![Skills](https://skillicons.dev/icons?i=html,css,js,ts,cs&perline=10)
+
 ![Skills](https://skillicons.dev/icons?i=react,nextjs,vue,angular&perline=10)
 ![Skills](https://skillicons.dev/icons?i=tailwind,bootstrap,&perline=10)
+
 ![Skills](https://skillicons.dev/icons?i=nodejs,express,go,dotnet,laravel&perline=10)
 ![Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb&perline=10)
+
 ![Skills](https://skillicons.dev/icons?i=docker,firebase&perline=10)
