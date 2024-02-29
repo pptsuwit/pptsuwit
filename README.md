@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pptsuwit&theme=neon)
+<!--![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pptsuwit&theme=neon)!-->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pptsuwit&theme=neon&layout=compact)
  
